@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>韩国201808</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-nodesc-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>未命名的图层</name>
+      <Placemark>
+        <name>乘船码头
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3788195,36.0515104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>独岛体验馆LIM KWANG TOWER WEST
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9688225,37.5622946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>jukdo market
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3684661,36.0361297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>warship
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3724251,36.0412656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>modern culture and history street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.5615959,35.990525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>107下车地点YMCA
+</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3658108,36.0407928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>500，510下车地点
+</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3672001,36.0420247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>sunrise square
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.5665526,36.0761584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서조빌딩/Seojo bldg
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9725819,37.5407323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울용산구 서빙고로 48 한양철우아파트 2동211호 +82 10 3388 2818</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9690156,37.5236139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国家博物馆
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9804525,37.5238862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dosan Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.0353667,37.5244813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>unification 서울특별시 강북구 인수봉로 251-38</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.0101648,37.6410914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pohang Youngildae Guesthouse 62-1, Daesin-dong, Buk-gu, 37724 浦项市</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3699268,36.0470131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>101上车地点，去码头
+</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3663526,36.039678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>경산시외버스정류장咖啡店</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            128.7373799,35.825025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宿
+</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.878641,37.4657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dokdo Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.900928,37.4834269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>公交车位置
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.9074318,37.4927664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>도동 公交车位置
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.8995032,37.4852452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>公交位置저동</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.909996,37.4924472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>간령 
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.8757925,37.4606032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Echeonan Hotel
+</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.1401888,36.8124393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>换钱
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9824736,37.5621715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>去火车站北面217 동부우체국(대구방향)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            128.7532425,35.8173869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
