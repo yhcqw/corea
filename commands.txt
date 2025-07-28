@@ -1,0 +1,16 @@
+mdls -name kMDItemContentCreationDate IMG_1808.JPG
+(JPG　date and time)
+
+
+count=1; for file in *.JPG; do mv "$file" "temp_${file}"; done && count=1; for file in temp_*; do mv "$file" "${count}.JPG"; ((count++)); done
+
+
+
+date -j -f "%Y-%m-%d %H:%M:%S %z" "$(mdls -name kMDItemContentCreationDate 59.JPG | cut -d= -f2 | xargs)" +"%Y-%m-%d %H:%M:%S KST" | while read utc; do date -j -v +9H -f "%Y-%m-%d %H:%M:%S" "$utc" +"%Y-%m-%d %H:%M:%S KST"; done
+
+
+
+
+
+
+
